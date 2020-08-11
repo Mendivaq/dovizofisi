@@ -1,0 +1,20 @@
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.exe.config
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.exe
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.pdb
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csprojAssemblyReference.cache
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.Form1.resources
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.Properties.Resources.resources
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.GenerateResource.cache
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.CoreCompileInputs.cache
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.exe
+C:\Users\ekkoe\Desktop\Masaüstü\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.pdb
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csprojAssemblyReference.cache
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.Form1.resources
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.Properties.Resources.resources
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.GenerateResource.cache
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.csproj.CoreCompileInputs.cache
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.exe
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\obj\Debug\Doviz_Ofisi.pdb
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.exe.config
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.exe
+G:\12.7.2020 all backups\Projects\Doviz_Ofisi\bin\Debug\Doviz_Ofisi.pdb
